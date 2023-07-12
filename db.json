@@ -10,31 +10,31 @@
       "id": 2,
       "name": "Cordyline fruticosa",
       "price": 30,
-      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/cordyline.png"
     },
     {
       "id": 3,
-      "name": "Ajuga reptans",
+      "name": "Crassula ovata",
       "price": 25,
-      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/crassula.png"
     },
     {
       "id": 4,
-      "name": "Ajuga reptans",
+      "name": "Cyperus rotundus",
       "price": 40,
-      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/cyperus.png"
     },
     {
       "id": 5,
-      "name": "Ajuga reptans",
+      "name": "Delairea odorata",
       "price": 22,
-      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/delairea.png"
     },
     {
       "id": 6,
-      "name": "Ajuga reptans",
+      "name": "Datura metel",
       "price": 31,
-      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/datura.png"
     }
   ]
 }
