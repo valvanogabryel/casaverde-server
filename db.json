@@ -4,37 +4,37 @@
       "id": 1,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "./images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 2,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "./images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 3,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "./images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 4,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "./images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 5,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "./images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 6,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "./images/ajuga.png"
+      "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     }
   ]
 }
