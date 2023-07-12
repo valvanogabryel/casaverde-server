@@ -8,32 +8,32 @@
     },
     {
       "id": 2,
-      "name": "Ajuga reptans",
-      "price": 20,
+      "name": "Cordyline fruticosa",
+      "price": 30,
       "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 3,
       "name": "Ajuga reptans",
-      "price": 20,
+      "price": 25,
       "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 4,
       "name": "Ajuga reptans",
-      "price": 20,
+      "price": 40,
       "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 5,
       "name": "Ajuga reptans",
-      "price": 20,
+      "price": 22,
       "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     },
     {
       "id": 6,
       "name": "Ajuga reptans",
-      "price": 20,
+      "price": 31,
       "image": "https://casaverde-server.vercel.app/images/ajuga.png"
     }
   ]
