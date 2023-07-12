@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "public/images/products/ajuga-reptans.png"
+      "image": "./images/ajuga.png"
     },
     {
       "id": 2,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "public/images/products/ajuga-reptans.png"
+      "image": "./images/ajuga.png"
     },
     {
       "id": 3,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "public/images/products/ajuga-reptans.png"
+      "image": "./images/ajuga.png"
     },
     {
       "id": 4,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "public/images/products/ajuga-reptans.png"
+      "image": "./images/ajuga.png"
     },
     {
       "id": 5,
       "name": "Ajuga reptans",
       "price": 20,
-      "image": "public/images/products/ajuga-reptans.png"
+      "image": "./images/ajuga.png"
     },
     {
       "id": 6,
